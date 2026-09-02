@@ -14,19 +14,21 @@ We recommend an environment with Python >= 3.8, and then install the following d
 
 ```bash
 pip install -r requirements.txt
+```
 
-## 2. Train / Test
+## 3. Train / Test
 
 Run the train script on Pancreas-CT dataset.
 
 Train:
 
-bash
+```bash
 python Pancreas_train.py
+```
 Test:
 
-bash
+```bash
 python test_Pancreas.py
-
-##4. Acknowledgements
+```
+## 4. Acknowledgements
 Our code is largely based on SDCL and BCP. Thanks to these authors for their valuable work. We hope our work can also contribute to related research.
