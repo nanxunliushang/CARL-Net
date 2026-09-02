@@ -31,4 +31,4 @@ Test:
 python test_Pancreas.py
 ```
 ## 4. Acknowledgements
-Our code is largely based on SDCL and BCP. Thanks to these authors for their valuable work. We hope our work can also contribute to related research.
+Our code is largely based on [SDCL](https://github.com/pascalcpp/SDCL) and [BCP](https://github.com/DeepMed-Lab-ECNU/BCP). Thanks to these authors for their valuable work. We hope our work can also contribute to related research.
