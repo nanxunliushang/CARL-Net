@@ -15,7 +15,7 @@ We recommend an environment with Python >= 3.8, and then install the following d
 ```bash
 pip install -r requirements.txt
 
-## 3. Train / Test
+## 2. Train / Test
 
 Run the train script on Pancreas-CT dataset.
 
